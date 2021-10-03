@@ -1,4 +1,5 @@
 # About this App
+The foundation code is from https://www.taniarascia.com/crud-app-in-react-with-hooks/ written in 2018 and without API calls. It was a reasonable basis to adapt for my learning with target to add functionality to achieve accurate fetch and promises which was not achieved. This code does not run and needs continued refactoring. Initially with Rascia's instruction and then my refactoring I gained a greater understanding of state and properties. In mentor session I worked with Postman to create a database of three medication objects.
 
 # Getting Started with Create React App
 
